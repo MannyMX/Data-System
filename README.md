@@ -1,4 +1,6 @@
 # SimpleRA
+## Author
+**Mayank Garg** - [@MannyMX](https://github.com/MannyMX)
 
 ## Compilation Instructions
 
